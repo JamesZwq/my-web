@@ -1,0 +1,11 @@
+.icon-container {
+    transition: transform 0.3s ease;
+}
+
+.scale-maximize:hover {
+    transform: scale(1.2);
+}
+
+.scale-minimize:hover {
+    transform: scale(0.8);
+}
